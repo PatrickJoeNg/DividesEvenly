@@ -1,0 +1,7 @@
+C:\Users\Patrick\source\repos\DividesEvenly\bin\Debug\DividesEvenly.exe.config
+C:\Users\Patrick\source\repos\DividesEvenly\bin\Debug\DividesEvenly.exe
+C:\Users\Patrick\source\repos\DividesEvenly\bin\Debug\DividesEvenly.pdb
+C:\Users\Patrick\source\repos\DividesEvenly\obj\Debug\DividesEvenly.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\DividesEvenly\obj\Debug\DividesEvenly.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\DividesEvenly\obj\Debug\DividesEvenly.exe
+C:\Users\Patrick\source\repos\DividesEvenly\obj\Debug\DividesEvenly.pdb
